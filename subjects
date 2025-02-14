@@ -1,11 +1,16 @@
-String 7
+https://leetcode.ca/all/1.html
+String
 3.	Longest Substring Without Repeating Characters
+	Sliding Window + Hash Table
 5.	Longest Palindromic Substring
 6.	ZigZag Conversion
 14.	Longest Common Prefix
-28.	Find the Index of the First Occurrence in a String
-67.	
-1143.
+28.	Find the Index of the First Occurrence in a String - strStr()
+	LPS(Longest Prefix Suffix) this part is interesting
+	KMP Algorithm: not intuitive, but good to know
+67.	Add Binary
+1143.Longest Common Subsequence
+	dp approach
 
 Linear List 7
 724
